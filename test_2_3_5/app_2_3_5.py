@@ -27,5 +27,4 @@ def ver_coleccion():
     return render_template("galeria.html", items=datos)
 
 if __name__ == "__main__":
-   
-    app.run(debug=True) 
+    app.run(debug=True, port=5001) 
