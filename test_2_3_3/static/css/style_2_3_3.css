@@ -1,0 +1,15 @@
+
+body {
+    background-color: #b5ffff;
+
+}
+
+img {
+    width: 1700px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
